@@ -1,0 +1,165 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+header img {
+    width: 160px;
+    margin-top: 6px;
+    margin-left: 25px;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F2E8D7;
+    height: 230px;
+    margin: -8px;
+}
+main{
+     margin: -7px;
+}
+main nav{
+    background-color: #F2E8D7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: -5px;
+    box-shadow: 5px 7px 5px 7px rgb(212, 221, 212);
+}
+main nav p{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+main h2{
+    margin-top: 20px;
+}
+h3{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.Erick{
+    width: 250px;
+    border: none;
+    height: 440px;
+    background-color: whitesmoke;
+    box-shadow: 5px 7px 5px 7px rgb(212, 221, 212);
+    margin-left: 10px;
+}
+.Erick img {
+    border-radius: 50%;
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 45px;
+}
+.Erick p{
+    margin-left: 20px;
+}
+.Hirgo {
+    width: 250px;
+    height: 440px;
+    border: none;
+    background-color: whitesmoke;
+    box-shadow: 5px 7px 5px 7px rgb(212, 221, 212);
+    margin-left: 20px;
+}
+.Hirgo img {
+    border-radius: 50%;
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 45px;
+    margin-bottom: -5px;
+}
+.Hirgo p {
+    margin-left: 20px;
+    text-align: left;
+}
+
+.aluno {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Will {
+    width: 250px;
+    border: none;
+    height: 440px;
+    background-color: whitesmoke;
+    box-shadow: 5px 7px 5px 7px rgb(212, 221, 212);
+    margin-left: 20px;
+}
+.Will img {
+    border-radius: 50%;
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 45px;
+}
+.Will p {
+    margin-left: 20px;
+}
+.Nick {
+    width: 250px;
+    height: 440px;
+    border: none;
+    background-color: whitesmoke;
+    box-shadow: 5px 7px 5px 7px rgb(212, 221, 212);
+    margin-left: 20px;
+}
+.Nick img {
+    border-radius: 50%;
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 45px;
+}
+.Nick p{
+    margin-left: 20px;
+}
+.Kayky {
+    width: 250px;
+    height: 440px;
+    border: none;
+    background-color: whitesmoke;
+    box-shadow: 5px 7px 5px 7px rgb(212, 221, 212);
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.Kayky img {
+    border-radius: 50%;
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 45px;
+}
+.Kayky p{
+    margin-left: 20px;
+}
+.Diogenes{
+    width: 250px;
+    height: 440px;
+    border: none;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+    box-shadow: 5px 7px 5px 7px rgb(212, 221, 212);
+}
+.Diogenes p{
+    margin-left: 20px;
+    text-align: left;
+}
+.Diogenes img {
+    border-radius: 50%;
+    margin-top: 5px;
+    width: 150px;
+    height: 150px;
+    margin-left: 45px;
+}
+.prof{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
